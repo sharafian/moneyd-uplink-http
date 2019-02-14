@@ -1,0 +1,17 @@
+{
+  "name": "moneyd-uplink-http",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.0",
+    "get-port": "^4.1.0",
+    "ilp-plugin-http": "^1.2.1",
+    "inquirer": "^6.2.0"
+  }
+}
